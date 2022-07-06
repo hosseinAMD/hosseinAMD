@@ -6,8 +6,9 @@
 <br>
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Technical interviews As a Frontend Engineer](https://javascript.plainenglish.io/technical-interviews-as-a-frontend-engineer-364b7c78516?source=rss-ee208eb13e4d------2)
 - [Next.js Tutorial : Static and Dynamic Routing](https://codeburst.io/next-js-tutorial-static-and-dynamic-routing-fba70e26359a?source=rss-ee208eb13e4d------2)
 - [How to use React Context — Part 1](https://codeburst.io/how-to-use-react-context-part-1-1e4ce38fe2dd?source=rss-ee208eb13e4d------2)
-- [React Hooks: How to use useEffect()](https://javascript.plainenglish.io/react-hooks-how-to-use-useeffect-ecea3e90d84f?source=rss-ee208eb13e4d------2)
+- [React Hooks: How to use useEffect&lpar;&rpar;](https://javascript.plainenglish.io/react-hooks-how-to-use-useeffect-ecea3e90d84f?source=rss-ee208eb13e4d------2)
 - [React Hooks for beginners, Sweet and a little complex](https://medium.com/weekly-webtips/react-hooks-for-beginners-sweet-and-a-little-complex-31a1225bd2f7?source=rss-ee208eb13e4d------2)
 <!-- BLOG-POST-LIST:END -->
